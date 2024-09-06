@@ -1,0 +1,33 @@
+*{
+	font-family: 'Times New Roman', Times, serif;
+}
+.main{
+    text-align: center;
+	display: grid;
+	align-items: center;
+    justify-content: center;
+}
+
+.box{
+	height:fit-content;
+	width: 400px;
+	border: 2px solid grey;
+	padding: 30px;
+	margin-top: 60px;
+	border-radius: 30px;
+	box-shadow: 2px 4px 16px black;
+}
+
+.abc{
+	height: 100px;
+	width: 400px;
+	border: 2px solid black;
+	margin: auto;
+}
+.btn{
+	color: white;
+	background-color: black;
+	padding: 10px;
+    border-radius: 10px;
+	
+}
